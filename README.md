@@ -1,9 +1,7 @@
 # Simple PHP SSO integration for Laravel
 
-[![Latest Stable Version](https://poser.pugx.org/AdlyAlimin/laravel-sso/v/stable)](https://packagist.org/packages/AdlyAlimin/laravel-sso)
 [![Total Downloads](https://poser.pugx.org/AdlyAlimin/laravel-sso/downloads)](https://packagist.org/packages/AdlyAlimin/laravel-sso)
 [![Latest Unstable Version](https://poser.pugx.org/AdlyAlimin/laravel-sso/v/unstable)](https://packagist.org/packages/AdlyAlimin/laravel-sso)
-[![License](https://poser.pugx.org/AdlyAlimin/laravel-sso/license)](https://packagist.org/packages/AdlyAlimin/laravel-sso)
 
 
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
